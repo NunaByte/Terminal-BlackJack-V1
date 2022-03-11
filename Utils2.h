@@ -1,11 +1,3 @@
-/*
- * Utils.cpp
- *
- *  Created on: Sep 22, 2016
- *      Author: serge
- */
-
-
 #include "Utils.h"
 #include <iostream>
 #include <stdlib.h>
